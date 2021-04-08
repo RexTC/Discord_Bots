@@ -52,4 +52,4 @@ async def on_message(message):
         else:
             await channel.send('😘')
 
-client.run('ODI0NDkzOTI3NjU4Njg0NDc3.YFwLzg.53PGoON1M9_bPBwZ3l8sGMcivM0')
+client.run('????')
